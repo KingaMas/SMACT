@@ -224,5 +224,9 @@ $RECYCLE.BIN/
 
 *.swp
 
-*.bak
-df_binary_category.pkl ppd-mp_all_entries_uncorrected_250409.pkl.gz
+# Any ipynb checkpoint files
+.ipynb_checkpoints
+.DS_Store
+
+# Docs builds
+docs/_build/
